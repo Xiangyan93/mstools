@@ -4,7 +4,7 @@ from typing import Dict, Iterator, List, Optional, Union, Literal, Tuple
 import os
 import math
 import numpy as np
-from ...mol3D import Mol3D
+from ...molecule import Mol3D
 
 
 class GaussianSimulator:
